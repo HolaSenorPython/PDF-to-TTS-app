@@ -51,7 +51,7 @@ AWS_DEFAULT_REGION=your_region_here
 <p>The program should prompt you and explain more. You will need name of file (if in root) or absolute file path. Keep under 3000 characters.</p>
 
 <h2>Limitations</h2>
-<p>No GUI. All this happens in the console lol. But hey, opening windows mp3 player to listen to it is part of the experience! 😭🙏🏾
+<p>No GUI. All this happens in the console lol. But hey, opening windows mp3 player to listen to it is part of the experience! 😭🙏🏾<br>
 <b>Also, PDF files only.</b></p>
 
 <h2>License</h2>
