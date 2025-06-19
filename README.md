@@ -52,7 +52,7 @@ AWS_DEFAULT_REGION=your_region_here
 
 <h2>Limitations</h2>
 <p>No GUI. All this happens in the console lol. But hey, opening windows mp3 player to listen to it is part of the experience! 😭🙏🏾<br>
-<b>Also, PDF files only.</b></p>
+<b><u>Also, PDF files only.</u></b></p>
 
 <h2>License</h2>
 <p>Honestly, I don't really understand this im still learning, but MIT license i guess? Anyone can use this.</p>
